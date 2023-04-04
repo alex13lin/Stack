@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Stack.dir/main.cpp.o CMakeFiles/Stack.dir/Sources/Stack.cpp.o CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o CMakeFiles/Stack.dir/Sources/Menu.cpp.o CMakeFiles/Stack.dir/Sources/DS.cpp.o -o Stack 
