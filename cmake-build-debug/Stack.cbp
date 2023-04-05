@@ -82,40 +82,52 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/DS.h">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/CircularQueue.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu.h">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/DS.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/MultiStack.h">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/MultiStack.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/MultiStackMenu.h">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/Stack.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/Stack.h">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/CircularQueueMenu.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/StackMenu.h">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/Menu.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DS.cpp">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/MultiStackMenu.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu.cpp">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/StackMenu.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStack.cpp">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/CircularQueue.cpp">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStackMenu.cpp">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/DS.cpp">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Stack.cpp">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/MultiStack.cpp">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/StackMenu.cpp">
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/Stack.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/CircularQueueMenu.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/Menu.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/MultiStackMenu.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/StackMenu.cpp">
 			<Option target="Stack"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/a1016/CLionProjects/Stack/main.cpp">

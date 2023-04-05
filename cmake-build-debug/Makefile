@@ -129,149 +129,197 @@ Stack/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/build
 .PHONY : Stack/fast
 
-Sources/DS.o: Sources/DS.cpp.o
-.PHONY : Sources/DS.o
+Sources/DataStructure/CircularQueue.o: Sources/DataStructure/CircularQueue.cpp.o
+.PHONY : Sources/DataStructure/CircularQueue.o
 
 # target to build an object file
-Sources/DS.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DS.cpp.o
-.PHONY : Sources/DS.cpp.o
+Sources/DataStructure/CircularQueue.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o
+.PHONY : Sources/DataStructure/CircularQueue.cpp.o
 
-Sources/DS.i: Sources/DS.cpp.i
-.PHONY : Sources/DS.i
+Sources/DataStructure/CircularQueue.i: Sources/DataStructure/CircularQueue.cpp.i
+.PHONY : Sources/DataStructure/CircularQueue.i
 
 # target to preprocess a source file
-Sources/DS.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DS.cpp.i
-.PHONY : Sources/DS.cpp.i
+Sources/DataStructure/CircularQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.i
+.PHONY : Sources/DataStructure/CircularQueue.cpp.i
 
-Sources/DS.s: Sources/DS.cpp.s
-.PHONY : Sources/DS.s
+Sources/DataStructure/CircularQueue.s: Sources/DataStructure/CircularQueue.cpp.s
+.PHONY : Sources/DataStructure/CircularQueue.s
 
 # target to generate assembly for a file
-Sources/DS.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DS.cpp.s
-.PHONY : Sources/DS.cpp.s
+Sources/DataStructure/CircularQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.s
+.PHONY : Sources/DataStructure/CircularQueue.cpp.s
 
-Sources/Menu.o: Sources/Menu.cpp.o
-.PHONY : Sources/Menu.o
+Sources/DataStructure/DS.o: Sources/DataStructure/DS.cpp.o
+.PHONY : Sources/DataStructure/DS.o
 
 # target to build an object file
-Sources/Menu.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu.cpp.o
-.PHONY : Sources/Menu.cpp.o
+Sources/DataStructure/DS.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o
+.PHONY : Sources/DataStructure/DS.cpp.o
 
-Sources/Menu.i: Sources/Menu.cpp.i
-.PHONY : Sources/Menu.i
+Sources/DataStructure/DS.i: Sources/DataStructure/DS.cpp.i
+.PHONY : Sources/DataStructure/DS.i
 
 # target to preprocess a source file
-Sources/Menu.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu.cpp.i
-.PHONY : Sources/Menu.cpp.i
+Sources/DataStructure/DS.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.i
+.PHONY : Sources/DataStructure/DS.cpp.i
 
-Sources/Menu.s: Sources/Menu.cpp.s
-.PHONY : Sources/Menu.s
+Sources/DataStructure/DS.s: Sources/DataStructure/DS.cpp.s
+.PHONY : Sources/DataStructure/DS.s
 
 # target to generate assembly for a file
-Sources/Menu.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu.cpp.s
-.PHONY : Sources/Menu.cpp.s
+Sources/DataStructure/DS.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.s
+.PHONY : Sources/DataStructure/DS.cpp.s
 
-Sources/MultiStack.o: Sources/MultiStack.cpp.o
-.PHONY : Sources/MultiStack.o
+Sources/DataStructure/MultiStack.o: Sources/DataStructure/MultiStack.cpp.o
+.PHONY : Sources/DataStructure/MultiStack.o
 
 # target to build an object file
-Sources/MultiStack.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o
-.PHONY : Sources/MultiStack.cpp.o
+Sources/DataStructure/MultiStack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o
+.PHONY : Sources/DataStructure/MultiStack.cpp.o
 
-Sources/MultiStack.i: Sources/MultiStack.cpp.i
-.PHONY : Sources/MultiStack.i
+Sources/DataStructure/MultiStack.i: Sources/DataStructure/MultiStack.cpp.i
+.PHONY : Sources/DataStructure/MultiStack.i
 
 # target to preprocess a source file
-Sources/MultiStack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/MultiStack.cpp.i
-.PHONY : Sources/MultiStack.cpp.i
+Sources/DataStructure/MultiStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.i
+.PHONY : Sources/DataStructure/MultiStack.cpp.i
 
-Sources/MultiStack.s: Sources/MultiStack.cpp.s
-.PHONY : Sources/MultiStack.s
+Sources/DataStructure/MultiStack.s: Sources/DataStructure/MultiStack.cpp.s
+.PHONY : Sources/DataStructure/MultiStack.s
 
 # target to generate assembly for a file
-Sources/MultiStack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/MultiStack.cpp.s
-.PHONY : Sources/MultiStack.cpp.s
+Sources/DataStructure/MultiStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.s
+.PHONY : Sources/DataStructure/MultiStack.cpp.s
 
-Sources/MultiStackMenu.o: Sources/MultiStackMenu.cpp.o
-.PHONY : Sources/MultiStackMenu.o
+Sources/DataStructure/Stack.o: Sources/DataStructure/Stack.cpp.o
+.PHONY : Sources/DataStructure/Stack.o
 
 # target to build an object file
-Sources/MultiStackMenu.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o
-.PHONY : Sources/MultiStackMenu.cpp.o
+Sources/DataStructure/Stack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o
+.PHONY : Sources/DataStructure/Stack.cpp.o
 
-Sources/MultiStackMenu.i: Sources/MultiStackMenu.cpp.i
-.PHONY : Sources/MultiStackMenu.i
+Sources/DataStructure/Stack.i: Sources/DataStructure/Stack.cpp.i
+.PHONY : Sources/DataStructure/Stack.i
 
 # target to preprocess a source file
-Sources/MultiStackMenu.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.i
-.PHONY : Sources/MultiStackMenu.cpp.i
+Sources/DataStructure/Stack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.i
+.PHONY : Sources/DataStructure/Stack.cpp.i
 
-Sources/MultiStackMenu.s: Sources/MultiStackMenu.cpp.s
-.PHONY : Sources/MultiStackMenu.s
+Sources/DataStructure/Stack.s: Sources/DataStructure/Stack.cpp.s
+.PHONY : Sources/DataStructure/Stack.s
 
 # target to generate assembly for a file
-Sources/MultiStackMenu.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.s
-.PHONY : Sources/MultiStackMenu.cpp.s
+Sources/DataStructure/Stack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.s
+.PHONY : Sources/DataStructure/Stack.cpp.s
 
-Sources/Stack.o: Sources/Stack.cpp.o
-.PHONY : Sources/Stack.o
+Sources/Menu/CircularQueueMenu.o: Sources/Menu/CircularQueueMenu.cpp.o
+.PHONY : Sources/Menu/CircularQueueMenu.o
 
 # target to build an object file
-Sources/Stack.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Stack.cpp.o
-.PHONY : Sources/Stack.cpp.o
+Sources/Menu/CircularQueueMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o
+.PHONY : Sources/Menu/CircularQueueMenu.cpp.o
 
-Sources/Stack.i: Sources/Stack.cpp.i
-.PHONY : Sources/Stack.i
+Sources/Menu/CircularQueueMenu.i: Sources/Menu/CircularQueueMenu.cpp.i
+.PHONY : Sources/Menu/CircularQueueMenu.i
 
 # target to preprocess a source file
-Sources/Stack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Stack.cpp.i
-.PHONY : Sources/Stack.cpp.i
+Sources/Menu/CircularQueueMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.i
+.PHONY : Sources/Menu/CircularQueueMenu.cpp.i
 
-Sources/Stack.s: Sources/Stack.cpp.s
-.PHONY : Sources/Stack.s
+Sources/Menu/CircularQueueMenu.s: Sources/Menu/CircularQueueMenu.cpp.s
+.PHONY : Sources/Menu/CircularQueueMenu.s
 
 # target to generate assembly for a file
-Sources/Stack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Stack.cpp.s
-.PHONY : Sources/Stack.cpp.s
+Sources/Menu/CircularQueueMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.s
+.PHONY : Sources/Menu/CircularQueueMenu.cpp.s
 
-Sources/StackMenu.o: Sources/StackMenu.cpp.o
-.PHONY : Sources/StackMenu.o
+Sources/Menu/Menu.o: Sources/Menu/Menu.cpp.o
+.PHONY : Sources/Menu/Menu.o
 
 # target to build an object file
-Sources/StackMenu.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o
-.PHONY : Sources/StackMenu.cpp.o
+Sources/Menu/Menu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o
+.PHONY : Sources/Menu/Menu.cpp.o
 
-Sources/StackMenu.i: Sources/StackMenu.cpp.i
-.PHONY : Sources/StackMenu.i
+Sources/Menu/Menu.i: Sources/Menu/Menu.cpp.i
+.PHONY : Sources/Menu/Menu.i
 
 # target to preprocess a source file
-Sources/StackMenu.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/StackMenu.cpp.i
-.PHONY : Sources/StackMenu.cpp.i
+Sources/Menu/Menu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.i
+.PHONY : Sources/Menu/Menu.cpp.i
 
-Sources/StackMenu.s: Sources/StackMenu.cpp.s
-.PHONY : Sources/StackMenu.s
+Sources/Menu/Menu.s: Sources/Menu/Menu.cpp.s
+.PHONY : Sources/Menu/Menu.s
 
 # target to generate assembly for a file
-Sources/StackMenu.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/StackMenu.cpp.s
-.PHONY : Sources/StackMenu.cpp.s
+Sources/Menu/Menu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.s
+.PHONY : Sources/Menu/Menu.cpp.s
+
+Sources/Menu/MultiStackMenu.o: Sources/Menu/MultiStackMenu.cpp.o
+.PHONY : Sources/Menu/MultiStackMenu.o
+
+# target to build an object file
+Sources/Menu/MultiStackMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o
+.PHONY : Sources/Menu/MultiStackMenu.cpp.o
+
+Sources/Menu/MultiStackMenu.i: Sources/Menu/MultiStackMenu.cpp.i
+.PHONY : Sources/Menu/MultiStackMenu.i
+
+# target to preprocess a source file
+Sources/Menu/MultiStackMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.i
+.PHONY : Sources/Menu/MultiStackMenu.cpp.i
+
+Sources/Menu/MultiStackMenu.s: Sources/Menu/MultiStackMenu.cpp.s
+.PHONY : Sources/Menu/MultiStackMenu.s
+
+# target to generate assembly for a file
+Sources/Menu/MultiStackMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.s
+.PHONY : Sources/Menu/MultiStackMenu.cpp.s
+
+Sources/Menu/StackMenu.o: Sources/Menu/StackMenu.cpp.o
+.PHONY : Sources/Menu/StackMenu.o
+
+# target to build an object file
+Sources/Menu/StackMenu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o
+.PHONY : Sources/Menu/StackMenu.cpp.o
+
+Sources/Menu/StackMenu.i: Sources/Menu/StackMenu.cpp.i
+.PHONY : Sources/Menu/StackMenu.i
+
+# target to preprocess a source file
+Sources/Menu/StackMenu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.i
+.PHONY : Sources/Menu/StackMenu.cpp.i
+
+Sources/Menu/StackMenu.s: Sources/Menu/StackMenu.cpp.s
+.PHONY : Sources/Menu/StackMenu.s
+
+# target to generate assembly for a file
+Sources/Menu/StackMenu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.s
+.PHONY : Sources/Menu/StackMenu.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -306,24 +354,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Stack"
-	@echo "... Sources/DS.o"
-	@echo "... Sources/DS.i"
-	@echo "... Sources/DS.s"
-	@echo "... Sources/Menu.o"
-	@echo "... Sources/Menu.i"
-	@echo "... Sources/Menu.s"
-	@echo "... Sources/MultiStack.o"
-	@echo "... Sources/MultiStack.i"
-	@echo "... Sources/MultiStack.s"
-	@echo "... Sources/MultiStackMenu.o"
-	@echo "... Sources/MultiStackMenu.i"
-	@echo "... Sources/MultiStackMenu.s"
-	@echo "... Sources/Stack.o"
-	@echo "... Sources/Stack.i"
-	@echo "... Sources/Stack.s"
-	@echo "... Sources/StackMenu.o"
-	@echo "... Sources/StackMenu.i"
-	@echo "... Sources/StackMenu.s"
+	@echo "... Sources/DataStructure/CircularQueue.o"
+	@echo "... Sources/DataStructure/CircularQueue.i"
+	@echo "... Sources/DataStructure/CircularQueue.s"
+	@echo "... Sources/DataStructure/DS.o"
+	@echo "... Sources/DataStructure/DS.i"
+	@echo "... Sources/DataStructure/DS.s"
+	@echo "... Sources/DataStructure/MultiStack.o"
+	@echo "... Sources/DataStructure/MultiStack.i"
+	@echo "... Sources/DataStructure/MultiStack.s"
+	@echo "... Sources/DataStructure/Stack.o"
+	@echo "... Sources/DataStructure/Stack.i"
+	@echo "... Sources/DataStructure/Stack.s"
+	@echo "... Sources/Menu/CircularQueueMenu.o"
+	@echo "... Sources/Menu/CircularQueueMenu.i"
+	@echo "... Sources/Menu/CircularQueueMenu.s"
+	@echo "... Sources/Menu/Menu.o"
+	@echo "... Sources/Menu/Menu.i"
+	@echo "... Sources/Menu/Menu.s"
+	@echo "... Sources/Menu/MultiStackMenu.o"
+	@echo "... Sources/Menu/MultiStackMenu.i"
+	@echo "... Sources/Menu/MultiStackMenu.s"
+	@echo "... Sources/Menu/StackMenu.o"
+	@echo "... Sources/Menu/StackMenu.i"
+	@echo "... Sources/Menu/StackMenu.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -83,113 +83,145 @@ CMakeFiles/Stack.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/main.cpp -o CMakeFiles/Stack.dir/main.cpp.s
 
-CMakeFiles/Stack.dir/Sources/Stack.cpp.o: CMakeFiles/Stack.dir/flags.make
-CMakeFiles/Stack.dir/Sources/Stack.cpp.o: ../Sources/Stack.cpp
-CMakeFiles/Stack.dir/Sources/Stack.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Stack.dir/Sources/Stack.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/Stack.cpp.o -MF CMakeFiles/Stack.dir/Sources/Stack.cpp.o.d -o CMakeFiles/Stack.dir/Sources/Stack.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Stack.cpp
+CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o: ../Sources/DataStructure/Stack.cpp
+CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o -MF CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o.d -o CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/Stack.cpp
 
-CMakeFiles/Stack.dir/Sources/Stack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/Stack.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Stack.cpp > CMakeFiles/Stack.dir/Sources/Stack.cpp.i
+CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/Stack.cpp > CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.i
 
-CMakeFiles/Stack.dir/Sources/Stack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/Stack.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Stack.cpp -o CMakeFiles/Stack.dir/Sources/Stack.cpp.s
+CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/Stack.cpp -o CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.s
 
-CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o: CMakeFiles/Stack.dir/flags.make
-CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o: ../Sources/StackMenu.cpp
-CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o -MF CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o.d -o CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/StackMenu.cpp
+CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o: ../Sources/Menu/StackMenu.cpp
+CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o -MF CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o.d -o CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/StackMenu.cpp
 
-CMakeFiles/Stack.dir/Sources/StackMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/StackMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/StackMenu.cpp > CMakeFiles/Stack.dir/Sources/StackMenu.cpp.i
+CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/StackMenu.cpp > CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.i
 
-CMakeFiles/Stack.dir/Sources/StackMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/StackMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/StackMenu.cpp -o CMakeFiles/Stack.dir/Sources/StackMenu.cpp.s
+CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/StackMenu.cpp -o CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.s
 
-CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o: CMakeFiles/Stack.dir/flags.make
-CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o: ../Sources/MultiStack.cpp
-CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o -MF CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o.d -o CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStack.cpp
+CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o: ../Sources/DataStructure/MultiStack.cpp
+CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o -MF CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o.d -o CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/MultiStack.cpp
 
-CMakeFiles/Stack.dir/Sources/MultiStack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/MultiStack.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStack.cpp > CMakeFiles/Stack.dir/Sources/MultiStack.cpp.i
+CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/MultiStack.cpp > CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.i
 
-CMakeFiles/Stack.dir/Sources/MultiStack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/MultiStack.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStack.cpp -o CMakeFiles/Stack.dir/Sources/MultiStack.cpp.s
+CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/MultiStack.cpp -o CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.s
 
-CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o: CMakeFiles/Stack.dir/flags.make
-CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o: ../Sources/MultiStackMenu.cpp
-CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o -MF CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o.d -o CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStackMenu.cpp
+CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o: ../Sources/Menu/MultiStackMenu.cpp
+CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o -MF CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o.d -o CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/MultiStackMenu.cpp
 
-CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStackMenu.cpp > CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.i
+CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/MultiStackMenu.cpp > CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.i
 
-CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStackMenu.cpp -o CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.s
+CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/MultiStackMenu.cpp -o CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.s
 
-CMakeFiles/Stack.dir/Sources/Menu.cpp.o: CMakeFiles/Stack.dir/flags.make
-CMakeFiles/Stack.dir/Sources/Menu.cpp.o: ../Sources/Menu.cpp
-CMakeFiles/Stack.dir/Sources/Menu.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Stack.dir/Sources/Menu.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/Menu.cpp.o -MF CMakeFiles/Stack.dir/Sources/Menu.cpp.o.d -o CMakeFiles/Stack.dir/Sources/Menu.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu.cpp
+CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o: ../Sources/Menu/Menu.cpp
+CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o -MF CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o.d -o CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/Menu.cpp
 
-CMakeFiles/Stack.dir/Sources/Menu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/Menu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu.cpp > CMakeFiles/Stack.dir/Sources/Menu.cpp.i
+CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/Menu.cpp > CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.i
 
-CMakeFiles/Stack.dir/Sources/Menu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/Menu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu.cpp -o CMakeFiles/Stack.dir/Sources/Menu.cpp.s
+CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/Menu.cpp -o CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.s
 
-CMakeFiles/Stack.dir/Sources/DS.cpp.o: CMakeFiles/Stack.dir/flags.make
-CMakeFiles/Stack.dir/Sources/DS.cpp.o: ../Sources/DS.cpp
-CMakeFiles/Stack.dir/Sources/DS.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Stack.dir/Sources/DS.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/DS.cpp.o -MF CMakeFiles/Stack.dir/Sources/DS.cpp.o.d -o CMakeFiles/Stack.dir/Sources/DS.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DS.cpp
+CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o: ../Sources/DataStructure/DS.cpp
+CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o -MF CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o.d -o CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/DS.cpp
 
-CMakeFiles/Stack.dir/Sources/DS.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/DS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DS.cpp > CMakeFiles/Stack.dir/Sources/DS.cpp.i
+CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/DS.cpp > CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.i
 
-CMakeFiles/Stack.dir/Sources/DS.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/DS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DS.cpp -o CMakeFiles/Stack.dir/Sources/DS.cpp.s
+CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/DS.cpp -o CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.s
+
+CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o: ../Sources/DataStructure/CircularQueue.cpp
+CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o -MF CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o.d -o CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/CircularQueue.cpp
+
+CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/CircularQueue.cpp > CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.i
+
+CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/CircularQueue.cpp -o CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.s
+
+CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o: ../Sources/Menu/CircularQueueMenu.cpp
+CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o: CMakeFiles/Stack.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o -MF CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o.d -o CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o -c /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/CircularQueueMenu.cpp
+
+CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/CircularQueueMenu.cpp > CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.i
+
+CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/CircularQueueMenu.cpp -o CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.s
 
 # Object files for target Stack
 Stack_OBJECTS = \
 "CMakeFiles/Stack.dir/main.cpp.o" \
-"CMakeFiles/Stack.dir/Sources/Stack.cpp.o" \
-"CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o" \
-"CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o" \
-"CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o" \
-"CMakeFiles/Stack.dir/Sources/Menu.cpp.o" \
-"CMakeFiles/Stack.dir/Sources/DS.cpp.o"
+"CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o" \
+"CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o" \
+"CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o" \
+"CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o" \
+"CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o" \
+"CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o" \
+"CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o" \
+"CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o"
 
 # External object files for target Stack
 Stack_EXTERNAL_OBJECTS =
 
 Stack: CMakeFiles/Stack.dir/main.cpp.o
-Stack: CMakeFiles/Stack.dir/Sources/Stack.cpp.o
-Stack: CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o
-Stack: CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o
-Stack: CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o
-Stack: CMakeFiles/Stack.dir/Sources/Menu.cpp.o
-Stack: CMakeFiles/Stack.dir/Sources/DS.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o
+Stack: CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o
 Stack: CMakeFiles/Stack.dir/build.make
 Stack: CMakeFiles/Stack.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable Stack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/c/Users/a1016/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable Stack"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Stack.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

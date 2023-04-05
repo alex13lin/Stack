@@ -8,12 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DS.cpp" "CMakeFiles/Stack.dir/Sources/DS.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/DS.cpp.o.d"
-  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu.cpp" "CMakeFiles/Stack.dir/Sources/Menu.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/Menu.cpp.o.d"
-  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStack.cpp" "CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/MultiStack.cpp.o.d"
-  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/MultiStackMenu.cpp" "CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/MultiStackMenu.cpp.o.d"
-  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Stack.cpp" "CMakeFiles/Stack.dir/Sources/Stack.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/Stack.cpp.o.d"
-  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/StackMenu.cpp" "CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/StackMenu.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/CircularQueue.cpp" "CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/DataStructure/CircularQueue.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/DS.cpp" "CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/DataStructure/DS.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/MultiStack.cpp" "CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/DataStructure/MultiStack.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/DataStructure/Stack.cpp" "CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/DataStructure/Stack.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/CircularQueueMenu.cpp" "CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/Menu/CircularQueueMenu.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/Menu.cpp" "CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/Menu/Menu.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/MultiStackMenu.cpp" "CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/Menu/MultiStackMenu.cpp.o.d"
+  "/mnt/c/Users/a1016/CLionProjects/Stack/Sources/Menu/StackMenu.cpp" "CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o" "gcc" "CMakeFiles/Stack.dir/Sources/Menu/StackMenu.cpp.o.d"
   "/mnt/c/Users/a1016/CLionProjects/Stack/main.cpp" "CMakeFiles/Stack.dir/main.cpp.o" "gcc" "CMakeFiles/Stack.dir/main.cpp.o.d"
   )
 
