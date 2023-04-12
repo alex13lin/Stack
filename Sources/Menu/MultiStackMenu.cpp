@@ -10,6 +10,7 @@ MultiStackMenu::MultiStackMenu() {
 }
 
 MultiStackMenu::~MultiStackMenu() {
+    delete data_structure;
 }
 
 

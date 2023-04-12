@@ -8,9 +8,7 @@ DS::DS() {
 
 }
 
-DS::~DS() {
-
-}
+DS::~DS() = default;
 
 void DS::push_item() {
 

@@ -14,7 +14,7 @@ CircularQueue::CircularQueue(int size) {
 }
 
 CircularQueue::~CircularQueue() {
-    for (int i = 0; i < size_ + 1; i++)delete[] item[i];
+    for (int i = 0; i < size_; i++)delete[] item[i];
     delete[] item;
 }
 

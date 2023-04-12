@@ -1755,8 +1755,8 @@ CMakeFiles/Stack.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
-  ../Menu/Headers/StackMenu.h \
-  ../DataStructure/Headers/Stack.h \
+  ../Headers/Menu/StackMenu.h \
+  ../Headers/DataStructure/Stack.h \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -1777,25 +1777,17 @@ CMakeFiles/Stack.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/bits/quoted_string.h \
   /usr/include/c++/11/sstream \
   /usr/include/c++/11/bits/sstream.tcc \
-  ../DataStructure/Headers/DS.h \
-  ../Menu/Headers/Menu.h \
-  ../DataStructure/Headers/DS.h \
+  ../Headers/DataStructure/DS.h \
+  ../Headers/Menu/Menu.h \
+  ../Headers/DataStructure/DS.h \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  ../Menu/Headers/MultiStackMenu.h \
-  ../DataStructure/Headers/MultiStack.h \
-  ../Menu/Headers/CircularQueueMenu.h \
-  ../DataStructure/Headers/CircularQueue.h
+  ../Headers/Menu/MultiStackMenu.h \
+  ../Headers/DataStructure/MultiStack.h \
+  ../Headers/Menu/CircularQueueMenu.h \
+  ../Headers/DataStructure/CircularQueue.h
 
-
-../DataStructure/Headers/CircularQueue.h:
-
-../Menu/Headers/CircularQueueMenu.h:
-
-../DataStructure/Headers/MultiStack.h:
-
-../DataStructure/Headers/DS.h:
 
 ../main.cpp:
 
@@ -1852,8 +1844,6 @@ CMakeFiles/Stack.dir/main.cpp.o: ../main.cpp \
 /usr/include/c++/11/bits/locale_facets.h:
 
 /usr/include/c++/11/bits/basic_ios.h:
-
-../Menu/Headers/StackMenu.h:
 
 /usr/include/c++/11/bits/streambuf.tcc:
 
@@ -2073,8 +2063,6 @@ CMakeFiles/Stack.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/c++/11/exception:
 
-../Menu/Headers/MultiStackMenu.h:
-
 /usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h:
 
 ../Sources/DataStructure/CircularQueue.cpp:
@@ -2183,8 +2171,6 @@ CMakeFiles/Stack.dir/main.cpp.o: ../main.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
-../Menu/Headers/Menu.h:
-
 ../Headers/Menu/MultiStackMenu.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
@@ -2212,8 +2198,6 @@ CMakeFiles/Stack.dir/main.cpp.o: ../main.cpp \
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
 /usr/include/c++/11/bits/locale_classes.h:
-
-../DataStructure/Headers/Stack.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
 

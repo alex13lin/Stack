@@ -11,7 +11,6 @@ Menu::Menu() {
 }
 
 Menu::~Menu() {
-    delete data_structure;
     delete[] menu_name;
 }
 

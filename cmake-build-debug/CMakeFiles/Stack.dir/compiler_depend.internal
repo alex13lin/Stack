@@ -1764,8 +1764,8 @@ CMakeFiles/Stack.dir/main.cpp.o
  /usr/include/c++/11/bits/ostream.tcc
  /usr/include/c++/11/istream
  /usr/include/c++/11/bits/istream.tcc
- /mnt/c/Users/a1016/CLionProjects/Stack/Menu/Headers/StackMenu.h
- /mnt/c/Users/a1016/CLionProjects/Stack/DataStructure/Headers/Stack.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/StackMenu.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/Stack.h
  /usr/include/c++/11/iomanip
  /usr/include/c++/11/locale
  /usr/include/c++/11/bits/locale_facets_nonio.h
@@ -1786,14 +1786,14 @@ CMakeFiles/Stack.dir/main.cpp.o
  /usr/include/c++/11/bits/quoted_string.h
  /usr/include/c++/11/sstream
  /usr/include/c++/11/bits/sstream.tcc
- /mnt/c/Users/a1016/CLionProjects/Stack/DataStructure/Headers/DS.h
- /mnt/c/Users/a1016/CLionProjects/Stack/Menu/Headers/Menu.h
- /mnt/c/Users/a1016/CLionProjects/Stack/DataStructure/Headers/DS.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/DS.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/Menu.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/DS.h
  /usr/include/c++/11/cstring
  /usr/include/string.h
  /usr/include/strings.h
- /mnt/c/Users/a1016/CLionProjects/Stack/Menu/Headers/MultiStackMenu.h
- /mnt/c/Users/a1016/CLionProjects/Stack/DataStructure/Headers/MultiStack.h
- /mnt/c/Users/a1016/CLionProjects/Stack/Menu/Headers/CircularQueueMenu.h
- /mnt/c/Users/a1016/CLionProjects/Stack/DataStructure/Headers/CircularQueue.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/MultiStackMenu.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/MultiStack.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/Menu/CircularQueueMenu.h
+ /mnt/c/Users/a1016/CLionProjects/Stack/Headers/DataStructure/CircularQueue.h
 

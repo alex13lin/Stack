@@ -10,4 +10,5 @@ StackMenu::StackMenu() {
 }
 
 StackMenu::~StackMenu(){
+    delete data_structure;
 }
