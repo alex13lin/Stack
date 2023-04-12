@@ -21,7 +21,7 @@ CircularQueue::~CircularQueue() {
 void CircularQueue::push_item() {
     if (front == rear && is_circular_queue_full)std::cout << "Queue is full!!!\n";
     else {
-        rear = (++rear) % size_;;
+        rear = (++rear) % size_;
         std::cout << "Enter the item: ";
         std::cin.getline(item[rear], 30);
         if (rear == front)is_circular_queue_full = true;
